@@ -23,5 +23,5 @@ You can click the Preview link to take a look at your changes.
 
 ### 😂 Random Dev Meme
 <img src="https://devhumor.com/content/uploads/images/June2022/print_statements.jpg" width="512px"/>
-
+<img src="[https://devhumor.com/content/uploads/images/June2022/print_statements.jpg](https://imgur.com/jYrT6bC)" width="512px"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
