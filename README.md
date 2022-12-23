@@ -18,10 +18,13 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Embrill&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Embrill&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📓 My certificates   
+<img src="https://i.imgur.com/jYrT6bC.png" width="512px"/>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://devhumor.com/content/uploads/images/June2022/print_statements.jpg" width="512px"/>
-<img src="[https://devhumor.com/content/uploads/images/June2022/print_statements.jpg](https://imgur.com/jYrT6bC)" width="512px"/>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
