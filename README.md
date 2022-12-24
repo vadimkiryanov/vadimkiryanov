@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 👋 Hi, I’m Vadim <br>- 👀 I’m interested in ...<br>- 🌱 I’m currently learning ...<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me: telegram - @roninjs / email - 19vadik99@gmail.com
+- 👋 Hi, I’m Vadim <br> 
+- 📫 How to reach me: telegram - @roninjs / email - 19vadik99@gmail.com
 
 
 # 💻 Tech Stack:
