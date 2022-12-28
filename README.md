@@ -11,11 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimkiryanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📓 My works example   
-<img src="https://img.hhcdn.ru/photo/702463675.png?t=1671950968&h=8kuiDCJOi9usomvG6qtBhQ" width="256px"/><img src="https://img.hhcdn.ru/photo/702464643.png?t=1671950968&h=e3XRMmz4X3sBoYjE8osbfQ" width="256px"/>
+<img src="https://i.imgur.com/zd3ryhB.png" width="256px"/><img src="https://imgur.com/EHncHr0.png" width="256px"/>
 
-<img src="https://img.hhcdn.ru/photo/702467414.png?t=1671950968&h=quIiKbpHP5nSDQNwZ1JAMg" width="256px"/><img src="https://img.hhcdn.ru/photo/710084837.png?t=1671950968&h=tlnj0PJV_iNAvsL9bRvTmg" width="256px"/>
+<img src="https://imgur.com/0yJo4dI.png" width="256px"/><img src="https://imgur.com/zPcSH9X.png" width="256px"/>
 
-<img src="https://img.hhcdn.ru/photo/711040829.png?t=1671950968&h=hPQQY-iakcWSj3dz8-pDJg" width="512px"/>
+<img src="https://imgur.com/dCy9TGy.png" width="512px"/>
 
 
 # 📓 My certificates   
