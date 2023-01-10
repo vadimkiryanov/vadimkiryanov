@@ -17,7 +17,7 @@
 
 # 📓 My certificates   
 <img src="https://i.imgur.com/jYrT6bC.png" width="512px"/>
-
+<img src="https://i.imgur.com/is9VAmW.png" width="512px"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
