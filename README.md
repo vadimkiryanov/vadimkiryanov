@@ -12,7 +12,7 @@
 
 <img src="https://imgur.com/0yJo4dI.png" width="256px"/><img src="https://imgur.com/zPcSH9X.png" width="256px"/>
 
-<img src="https://imgur.com/dCy9TGy.png" width="512px"/>
+<img src="https://imgur.com/dCy9TGy.png" width="256px"/><img src="https://img.hhcdn.ru/photo/713233865.png?t=1674148366&h=L8fr89ogYnM1UE_HUSq6nA" width="256px"/>
 
 
 # 📓 My certificates   
