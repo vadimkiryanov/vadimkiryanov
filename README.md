@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Vadim <br> 
-- 📫 How to reach me: telegram - @roninjs / email - 19vadik99@gmail.com
+- 📫 How to reach me: telegram - @vadosjs / email - 19vadik99@gmail.com
 
 
 # 💻 Tech Stack:
