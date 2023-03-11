@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Vadim <br> 
+- 👋 Hi, I’m Vadim and I’m web developer <br> 
 - 📫 How to reach me: telegram - @vadosjs / email - 19vadik99@gmail.com
 
 
@@ -20,6 +20,8 @@
 # 📓 My certificates   
 <img src="https://i.imgur.com/jYrT6bC.png" width="512px"/>
 <img src="https://i.imgur.com/is9VAmW.png" width="512px"/>
+<img src="https://i.ibb.co/cbs2DSL/image.png" width="512px"/>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
