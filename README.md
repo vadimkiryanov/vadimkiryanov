@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Vadim and I’m web developer <br> 
 - 📫 How to reach me: telegram - @vadosjs / email - 19vadik99@gmail.com
+- ♥ I am a contributor of my favorite libraries: mantine, daisyui
 
 
 # 💻 Tech Stack:
