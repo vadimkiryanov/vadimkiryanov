@@ -9,19 +9,13 @@
 
 
 # 📓 My works example   
-<img src="https://i.ibb.co/BPTrjk2/23.png" width="514px"/>
+<img src="https://i.ibb.co/BPTrjk2/23.png" width="256px"/><img src="https://i.imgur.com/zd3ryhB.png" width="256px"/><img src="https://imgur.com/EHncHr0.png" width="256px"/>
 
-<img src="https://i.imgur.com/zd3ryhB.png" width="256px"/><img src="https://imgur.com/EHncHr0.png" width="256px"/>
-
-<img src="https://imgur.com/0yJo4dI.png" width="256px"/><img src="https://imgur.com/zPcSH9X.png" width="256px"/>
-
-<img src="https://imgur.com/dCy9TGy.png" width="256px"/><img src="https://i.ibb.co/qxLNFnG/WIFa-IZiuna8.jpg" width="256px"/>
+<img src="https://imgur.com/0yJo4dI.png" width="256px"/><img src="https://imgur.com/zPcSH9X.png" width="256px"/><img src="https://imgur.com/dCy9TGy.png" width="256px"/><img src="https://i.ibb.co/qxLNFnG/WIFa-IZiuna8.jpg" width="256px"/>
 
 
 # 📓 My certificates   
-<img src="https://i.imgur.com/jYrT6bC.png" width="512px"/>
-<img src="https://i.imgur.com/is9VAmW.png" width="512px"/>
-<img src="https://i.ibb.co/cbs2DSL/image.png" width="512px"/>
+<img src="https://i.imgur.com/jYrT6bC.png" width="256px"/><img src="https://i.imgur.com/is9VAmW.png" width="256px"/><img src="https://i.ibb.co/cbs2DSL/image.png" width="256px"/>
 
 
 ### ✍️ Random Dev Quote
